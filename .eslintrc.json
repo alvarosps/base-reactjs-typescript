@@ -55,6 +55,13 @@
                 "react/jsx-uses-react": "off",
                 "react/react-in-jsx-scope": "off"
             }
+        },
+        {
+            "files": [ "webpack.*.js", "config/**/*.js"],
+            "rules": {
+                "@typescript-eslint/no-var-requires": "off",
+            },
         }
+        
     ]
 }

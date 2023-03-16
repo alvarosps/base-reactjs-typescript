@@ -21,8 +21,7 @@
   "homepage": "https://github.com/alvarosps/base-reactjs-typescript-webpack-babel-eslint-prettier#readme",
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "typescript": "^5.0.2"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.21.3",
@@ -55,6 +54,8 @@
     "sass-loader": "^13.2.0",
     "style-loader": "^3.3.2",
     "ts-jest": "^29.0.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2",
     "webpack": "^5.76.2",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.12.0",
