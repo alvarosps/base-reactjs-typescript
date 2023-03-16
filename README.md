@@ -6,13 +6,10 @@ This is a base project template for a React and TypeScript application, with the
 
 To get started with the project, follow these steps:
 
-1. Clone the repository:
-`git clone https://github.com/alvarosps/base-reactjs-typescript-webpack-babel-eslint-prettier.git`
-
-2. Install the dependencies:
+1. Install the dependencies:
 `npm install`
 
-3. Start the development server:
+2. Start the development server:
 `npm start`
 
 ### Testing
