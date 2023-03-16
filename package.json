@@ -1,7 +1,7 @@
 {
-  "name": "base-reactjs-typescript-webpack-babel-eslint-prettier",
+  "name": "base-reactjs-typescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic template for a ReactJS project, using Typescript, Webpack, Babel, ESLint, Prettier and Jest, all in their latest versions.",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --config config/webpack.dev.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alvarosps/base-reactjs-typescript-webpack-babel-eslint-prettier.git"
+    "url": "git+https://github.com/alvarosps/base-reactjs-typescript.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alvaro S. P. Silva @alvarosps",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alvarosps/base-reactjs-typescript-webpack-babel-eslint-prettier/issues"
+    "url": "https://github.com/alvarosps/base-reactjs-typescript/issues"
   },
-  "homepage": "https://github.com/alvarosps/base-reactjs-typescript-webpack-babel-eslint-prettier#readme",
+  "homepage": "https://github.com/alvarosps/base-reactjs-typescript#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
